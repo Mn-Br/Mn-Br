@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mn-Br
 - 👀 I’m interested in Electrical Engineering, Control Systems, and Power Systems.
-- 🌱 I’m currently learning Electrical Engineering.
+- 🌱 I’m currently learning Electrical Engineering Science.
 - 💞️ I’m looking to collaborate on many usefull projects.
 - 📫 How to reach me? linked in: https://www.linkedin.com/in/marwan-bitar/
 
